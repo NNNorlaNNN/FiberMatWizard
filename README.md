@@ -17,9 +17,8 @@ A MATLAB-based toolbox for preprocessing and analyzing fiber photometry data, su
 
 - MATLAB R2019b or later
 - Signal Processing Toolbox (for filtering and smoothing)
+- Machine Learning Toolbox (for mad calculation)
 
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/fiberphotometry-tool.git
